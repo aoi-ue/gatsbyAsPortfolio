@@ -5,7 +5,7 @@ This Blog Covers personal portfolio and step-by-step tutorials
 
 > npm install -g gatsby-cli
 
-> Fork and Clone
+Fork and Clone
 
 Install the dependencies:
 > npm install
