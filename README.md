@@ -1,22 +1,21 @@
-# Personal Blog With Gatsby 
-This blog covers personal portfolio and step-by-step tutorials
-This repo contains front-end written in React and back-end in GraphQL
+Blogging with Gatsbyjs  
+======
+**Gatsbyjs** is used for static site generator. Built with React & GraphQL, just fork clone and serve to a server of your choice. Simple! 📦
 
-## Make sure that you have the Gatsby CLI program installed
-
+```
 > npm install -g gatsby-cli (if required)
 
 > Fork and Clone
 
-> Install the dependencies: npm install
+> npm install to install latest dependencies  
 
+```
+## Version 
+* Version 1.1 Beta 👷
 
-## Current Checklist as of 01 Jun 2019 
-- [ ] Create a Home Page with CSSinJS Modules with basic layout
+## Current Thread to build/fix on August 2019 
 - [ ] Route GraphQL to Wordpress and other CRM 
+- [ ] Create a Home Page with CSSinJS Modules with basic layout
 
-
-# Support the community 
-https://www.gatsbyjs.org/
-
-
+## Support the community  
+https://www.gatsbyjs.org/ 🔮
