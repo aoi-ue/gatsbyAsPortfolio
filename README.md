@@ -8,10 +8,9 @@ Blogging with Gatsbyjs
 > Fork and Clone
 
 > npm install to install latest dependencies  
-
 ```
 ## Version 
-* Version 1.1 Beta 👷
+* 1.0 Beta 👷
 
 ## Current Thread to build/fix on August 2019 
 - [ ] Set up ESlint, Webpack, Babel, React/Gatsby, Sass Plug-ins 
@@ -19,7 +18,7 @@ Blogging with Gatsbyjs
 - [ ] Use Python Web Server in lambda AWS 
 - [ ] Create a Home Page with CSSinJS Modules with basic layout
 - [ ] Write a filter function for articles
- 
 
-## Support the community  
+
+## Support the community!  
 https://www.gatsbyjs.org/ 🔮
