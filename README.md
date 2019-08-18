@@ -18,7 +18,8 @@ Blogging with Gatsbyjs
 - [ ] Route GraphQL to Wordpress and other CRM 
 - [ ] Use Python Web Server in lambda AWS 
 - [ ] Create a Home Page with CSSinJS Modules with basic layout
-- [ ] Write a filter function for articles 
+- [ ] Write a filter function for articles
+ 
 
 ## Support the community  
 https://www.gatsbyjs.org/ 🔮
